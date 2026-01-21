@@ -1,3 +1,7 @@
+1.目录下example中的main.cpp是要修复的文件；
+
+## 以下是毕业设计框架
+
 本科毕业设计开题（Coding Agent / Cursor 精髓版）
 
 目标：做成 Cursor 的“精髓”——不是 UI 花哨，而是可复现、可控的工程 pipeline。MVP 先做 CLI 版，重点打通工作流：Plan → Retrieve → Patch → Run → Fix。
